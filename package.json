@@ -1,10 +1,10 @@
 {
-  "name": "napi-demo",
+  "name": "nb-grid",
   "version": "0.1.0",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
-    "name": "napi-demo",
+    "name": "nb-grid",
     "triples": {
       "additional": [
         "aarch64-apple-darwin",

@@ -1,12 +1,12 @@
 {
-  "name": "napi-demo-darwin-universal",
+  "name": "nb-grid-darwin-universal",
   "version": "0.0.0",
   "os": [
     "darwin"
   ],
-  "main": "napi-demo.darwin-universal.node",
+  "main": "nb-grid.darwin-universal.node",
   "files": [
-    "napi-demo.darwin-universal.node"
+    "nb-grid.darwin-universal.node"
   ],
   "license": "MIT",
   "engines": {

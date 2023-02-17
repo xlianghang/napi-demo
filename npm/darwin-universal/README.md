@@ -1,3 +1,3 @@
-# `napi-demo-darwin-universal`
+# `nb-grid-darwin-universal`
 
-This is the **universal-apple-darwin** binary for `napi-demo`
+This is the **universal-apple-darwin** binary for `nb-grid`

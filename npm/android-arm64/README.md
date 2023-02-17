@@ -1,3 +1,3 @@
-# `napi-demo-android-arm64`
+# `nb-grid-android-arm64`
 
-This is the **aarch64-linux-android** binary for `napi-demo`
+This is the **aarch64-linux-android** binary for `nb-grid`

@@ -1,5 +1,5 @@
 {
-  "name": "napi-demo-linux-arm64-gnu",
+  "name": "nb-grid-linux-arm64-gnu",
   "version": "0.0.0",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "napi-demo.linux-arm64-gnu.node",
+  "main": "nb-grid.linux-arm64-gnu.node",
   "files": [
-    "napi-demo.linux-arm64-gnu.node"
+    "nb-grid.linux-arm64-gnu.node"
   ],
   "license": "MIT",
   "engines": {

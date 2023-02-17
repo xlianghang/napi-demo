@@ -1,3 +1,3 @@
-# `napi-demo-darwin-x64`
+# `nb-grid-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `napi-demo`
+This is the **x86_64-apple-darwin** binary for `nb-grid`

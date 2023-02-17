@@ -1,3 +1,3 @@
-# `napi-demo-android-arm-eabi`
+# `nb-grid-android-arm-eabi`
 
-This is the **armv7-linux-androideabi** binary for `napi-demo`
+This is the **armv7-linux-androideabi** binary for `nb-grid`

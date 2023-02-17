@@ -1,3 +1,3 @@
-# `napi-demo-darwin-arm64`
+# `nb-grid-darwin-arm64`
 
-This is the **aarch64-apple-darwin** binary for `napi-demo`
+This is the **aarch64-apple-darwin** binary for `nb-grid`

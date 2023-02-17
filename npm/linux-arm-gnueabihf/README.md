@@ -1,3 +1,3 @@
-# `napi-demo-linux-arm-gnueabihf`
+# `nb-grid-linux-arm-gnueabihf`
 
-This is the **armv7-unknown-linux-gnueabihf** binary for `napi-demo`
+This is the **armv7-unknown-linux-gnueabihf** binary for `nb-grid`

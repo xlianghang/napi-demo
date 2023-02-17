@@ -1,3 +1,3 @@
-# `napi-demo-linux-arm64-musl`
+# `nb-grid-linux-arm64-musl`
 
-This is the **aarch64-unknown-linux-musl** binary for `napi-demo`
+This is the **aarch64-unknown-linux-musl** binary for `nb-grid`

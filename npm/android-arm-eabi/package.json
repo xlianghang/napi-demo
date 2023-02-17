@@ -1,5 +1,5 @@
 {
-  "name": "napi-demo-android-arm-eabi",
+  "name": "nb-grid-android-arm-eabi",
   "version": "0.0.0",
   "os": [
     "android"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm"
   ],
-  "main": "napi-demo.android-arm-eabi.node",
+  "main": "nb-grid.android-arm-eabi.node",
   "files": [
-    "napi-demo.android-arm-eabi.node"
+    "nb-grid.android-arm-eabi.node"
   ],
   "license": "MIT",
   "engines": {

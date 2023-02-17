@@ -1,5 +1,5 @@
 {
-  "name": "napi-demo-darwin-x64",
+  "name": "nb-grid-darwin-x64",
   "version": "0.0.0",
   "os": [
     "darwin"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "napi-demo.darwin-x64.node",
+  "main": "nb-grid.darwin-x64.node",
   "files": [
-    "napi-demo.darwin-x64.node"
+    "nb-grid.darwin-x64.node"
   ],
   "license": "MIT",
   "engines": {
