@@ -1,3 +1,3 @@
-# `nb-grid-linux-arm64-musl`
+# `ncompress-linux-arm64-musl`
 
-This is the **aarch64-unknown-linux-musl** binary for `nb-grid`
+This is the **aarch64-unknown-linux-musl** binary for `ncompress`

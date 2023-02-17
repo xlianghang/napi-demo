@@ -1,3 +1,3 @@
-# `nb-grid-linux-arm-gnueabihf`
+# `ncompress-linux-arm-gnueabihf`
 
-This is the **armv7-unknown-linux-gnueabihf** binary for `nb-grid`
+This is the **armv7-unknown-linux-gnueabihf** binary for `ncompress`

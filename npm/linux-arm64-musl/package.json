@@ -1,5 +1,5 @@
 {
-  "name": "nb-grid-linux-arm64-musl",
+  "name": "ncompress-linux-arm64-musl",
   "version": "0.0.0",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "nb-grid.linux-arm64-musl.node",
+  "main": "ncompress.linux-arm64-musl.node",
   "files": [
-    "nb-grid.linux-arm64-musl.node"
+    "ncompress.linux-arm64-musl.node"
   ],
   "license": "MIT",
   "engines": {

@@ -1,12 +1,12 @@
 {
-  "name": "nb-grid-darwin-universal",
+  "name": "ncompress-darwin-universal",
   "version": "0.0.0",
   "os": [
     "darwin"
   ],
-  "main": "nb-grid.darwin-universal.node",
+  "main": "ncompress.darwin-universal.node",
   "files": [
-    "nb-grid.darwin-universal.node"
+    "ncompress.darwin-universal.node"
   ],
   "license": "MIT",
   "engines": {

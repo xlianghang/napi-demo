@@ -1,3 +1,3 @@
-# `nb-grid-darwin-arm64`
+# `ncompress-darwin-arm64`
 
-This is the **aarch64-apple-darwin** binary for `nb-grid`
+This is the **aarch64-apple-darwin** binary for `ncompress`

@@ -1,3 +1,3 @@
-# `nb-grid-win32-ia32-msvc`
+# `ncompress-win32-ia32-msvc`
 
-This is the **i686-pc-windows-msvc** binary for `nb-grid`
+This is the **i686-pc-windows-msvc** binary for `ncompress`

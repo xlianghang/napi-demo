@@ -1,5 +1,5 @@
 {
-  "name": "nb-grid-linux-arm-gnueabihf",
+  "name": "ncompress-linux-arm-gnueabihf",
   "version": "0.0.0",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm"
   ],
-  "main": "nb-grid.linux-arm-gnueabihf.node",
+  "main": "ncompress.linux-arm-gnueabihf.node",
   "files": [
-    "nb-grid.linux-arm-gnueabihf.node"
+    "ncompress.linux-arm-gnueabihf.node"
   ],
   "license": "MIT",
   "engines": {

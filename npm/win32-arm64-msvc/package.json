@@ -1,5 +1,5 @@
 {
-  "name": "nb-grid-win32-arm64-msvc",
+  "name": "ncompress-win32-arm64-msvc",
   "version": "0.0.0",
   "os": [
     "win32"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "nb-grid.win32-arm64-msvc.node",
+  "main": "ncompress.win32-arm64-msvc.node",
   "files": [
-    "nb-grid.win32-arm64-msvc.node"
+    "ncompress.win32-arm64-msvc.node"
   ],
   "license": "MIT",
   "engines": {

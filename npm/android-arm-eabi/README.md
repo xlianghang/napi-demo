@@ -1,3 +1,3 @@
-# `nb-grid-android-arm-eabi`
+# `ncompress-android-arm-eabi`
 
-This is the **armv7-linux-androideabi** binary for `nb-grid`
+This is the **armv7-linux-androideabi** binary for `ncompress`

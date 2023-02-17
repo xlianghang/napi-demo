@@ -1,5 +1,5 @@
 {
-  "name": "nb-grid-darwin-x64",
+  "name": "ncompress-darwin-x64",
   "version": "0.0.0",
   "os": [
     "darwin"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "nb-grid.darwin-x64.node",
+  "main": "ncompress.darwin-x64.node",
   "files": [
-    "nb-grid.darwin-x64.node"
+    "ncompress.darwin-x64.node"
   ],
   "license": "MIT",
   "engines": {

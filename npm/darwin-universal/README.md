@@ -1,3 +1,3 @@
-# `nb-grid-darwin-universal`
+# `ncompress-darwin-universal`
 
-This is the **universal-apple-darwin** binary for `nb-grid`
+This is the **universal-apple-darwin** binary for `ncompress`

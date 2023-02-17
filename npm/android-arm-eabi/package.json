@@ -1,5 +1,5 @@
 {
-  "name": "nb-grid-android-arm-eabi",
+  "name": "ncompress-android-arm-eabi",
   "version": "0.0.0",
   "os": [
     "android"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm"
   ],
-  "main": "nb-grid.android-arm-eabi.node",
+  "main": "ncompress.android-arm-eabi.node",
   "files": [
-    "nb-grid.android-arm-eabi.node"
+    "ncompress.android-arm-eabi.node"
   ],
   "license": "MIT",
   "engines": {

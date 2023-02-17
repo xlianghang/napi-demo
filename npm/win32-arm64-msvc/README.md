@@ -1,3 +1,3 @@
-# `nb-grid-win32-arm64-msvc`
+# `ncompress-win32-arm64-msvc`
 
-This is the **aarch64-pc-windows-msvc** binary for `nb-grid`
+This is the **aarch64-pc-windows-msvc** binary for `ncompress`
